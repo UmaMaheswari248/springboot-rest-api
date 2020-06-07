@@ -2,7 +2,7 @@
 
 ------
 
-springboot-rest-api explains how to write rest API's using spring boot framework. spring boot is java based framework which is used for developing web applications and desktop applications and to write microservices.
+springboot-rest-api explains how to write REST API's using spring boot framework. spring boot is java based framework which is used for developing web applications and desktop applications and to write microservices.
 
 It also contains information about how use logger in spring boot application and how to deploy spring boot application using docker.
 
